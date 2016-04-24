@@ -1,1 +1,1 @@
-# OSU-CalcualtorTools.
+# OSU-CalculatorTools.
